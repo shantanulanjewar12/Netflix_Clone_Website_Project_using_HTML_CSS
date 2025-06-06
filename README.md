@@ -3,7 +3,7 @@ A static Netflix clone website built using HTML5 and CSS3. This project replicat
 
 ## 📽️ Demo Video
 
-[🎬 Click here to watch the demo video](./Asset/videoRec.mp4)
+[🎬 Click here to watch the demo video](./Asset/images/videoRec.mp4)
 
 ## 📸 Screenshots
 
