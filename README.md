@@ -8,20 +8,20 @@ A static Netflix clone website built using HTML5 and CSS3. This project replicat
 ## 📸 Screenshots
 
 ### 🏠 Homepage (Landing Page)
-![Homepage](./images/screenshot1.png)
+![Homepage](.Asset/images/screenshot1.png)
 
 ### 📄 Scroll View 1
-![Scroll View 1](./images/screenshot2.png)
+![Scroll View 1](.Asset/images/screenshot2.png)
 
 ### 📄 Scroll View 2
-![Scroll View 2](./images/screenshot3.png)
+![Scroll View 2](.Asset/images/screenshot3.png)
 
 ### 📄 Scroll View 3
-![Scroll View 3](./images/screenshot4.png)
+![Scroll View 3](.Asset/images/screenshot4.png)
 
 ### 📄 Scroll View 4
-![Scroll View 4](./images/screenshot5.png)
+![Scroll View 4](.Asset/images/screenshot5.png)
 
 ### 📄 Scroll View 5
-![Scroll View 5](./images/screenshot6.png)
+![Scroll View 5](.Asset/images/screenshot6.png)
 
