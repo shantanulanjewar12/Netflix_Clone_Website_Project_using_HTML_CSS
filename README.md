@@ -1,9 +1,9 @@
 # Netflix_Clone_Website_Project_using_HTML_CSS
 A static Netflix clone website built using HTML5 and CSS3. This project replicates the UI of Netflix for front-end practice, focusing on layout design, Flexbox, and responsive styling. No JavaScript or backend involved—purely for UI/UX learning purposes.
 
-## 📽️ Demo Video
+# Example using ffmpeg to reduce resolution/bitrate
+ffmpeg -i videoRec.mp4 -vcodec libx264 -crf 28 smallerVideoRec.mp4
 
-[🎬 Download or stream the demo video](https://raw.githubusercontent.com/youruser/Netflix_Clone_Website_Project_using_HTML_CSS/main/Asset/images/videoRec.mp4)
 
 
 ## 📸 Screenshots
